@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#navbar{
+    background-color:#1779BD;
+}
+#login{
+    background-color:#fff;
+}
+#login:hover{
+    background-color: rgb(31 41 55);
+    color:white;
+    transition: ease-in-out 0.3s;
+}
